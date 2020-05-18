@@ -12,7 +12,7 @@ const Container = styled.div`
 `;
 const App = props => (
 
-    <Router>
+    <Router basename="/dev">
       <div>
         <nav>
           <ul>
